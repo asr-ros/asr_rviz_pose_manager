@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>asr_rviz_pose_manager</name>
+  <version>1.0.0</version>
+  <description>This package is used to get poses from Rviz by using the goal tool and to store them in an XML-file</description>
+  <author>Borella Jocelyn</author>
+  <maintainer email="asr-ros@lists.kit.edu">Meißner Pascal</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>move_base_msgs</build_depend>
+  
+  <run_depend>roscpp</run_depend>
+  <run_depend>move_base_msgs</run_depend>
+
+  <export>
+  </export>
+</package>
