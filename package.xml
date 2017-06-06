@@ -6,6 +6,7 @@
   <author>Borella Jocelyn</author>
   <maintainer email="asr-ros@lists.kit.edu">Meißner Pascal</maintainer>
   <license>BSD</license>
+  <url type="website">http://ros.org/wiki/asr_rviz_pose_manager</url>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>roscpp</build_depend>
